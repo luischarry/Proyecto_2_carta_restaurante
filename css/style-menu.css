@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+    background-image: url(../imagenes/fondo3.jpg);
+   
+    background-attachment: fixed;
+    
+}
+#header {
+    background-color: rgb(68 68 68 / 68%);
+    font-family: Gotham;
+    text-align: center;
+    font-size: x-large;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+a{
+    text-decoration:none;
+    color: rgb(150, 89, 19);
+}
+.col-12{
+    color: white;
+    text-align: center;
+    font-size: 70px;
+}
+img{
+    width: 373px;
+    
+}
+#carta{
+    text-align: end;
+}
+
+strong,em,td,h4{
+    color: white;
+}

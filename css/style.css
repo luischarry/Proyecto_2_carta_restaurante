@@ -1,0 +1,39 @@
+body{
+   
+    padding: 0;
+    margin: 0;
+    background-image: url(https://img.freepik.com/fotos-premium/vista-aerea-paisaje-roca-guatape-piedra-penol-colombia_160521-128.jpg?w=2000);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#header {
+    background-color: rgb(68 68 68 / 68%);
+    font-family: Gotham;
+    text-align: center;
+    font-size: x-large;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 9999;
+}
+a{
+    text-decoration:none;
+    color: rgb(150, 89, 19);
+}
+p{
+    font-size: 40px;
+    text-align: center;
+    color: white;
+    background-color: rgb(68 68 68 / 68%)
+}
+.vacio{
+    height: 200px
+}
+#logo{
+    text-align: center;
+}
+img{
+    border-radius: 100%;
+}
